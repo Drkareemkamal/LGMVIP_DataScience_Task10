@@ -1,4 +1,4 @@
-								ML Facial recognition to detect mood and suggest songs accordingly 
+ML Facial recognition to detect mood and suggest songs accordingly 
 
 I engaged in a captivating project centered around utilizing deep learning methods for facial emotion recognition. 
 The main objective of this project was to develop a model capable of identifying emotions exhibited in human facial expressions within images. 
